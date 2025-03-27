@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+ * {@summary}
+ * TestThreadCheckArray
+ * activates and chacks the if there is a valid soultion for the inputed arry
+ * 
+ */
 public class TestThreadCheckArray {
 	public static void main(String[] args) {
 		try (Scanner input = new Scanner(System.in)) {
